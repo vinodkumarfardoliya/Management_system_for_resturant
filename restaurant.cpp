@@ -1,5 +1,5 @@
 /*
-This is done by Vishal Yadav 190981 Mechanical Eng
+This is done by Vinod Kumar Fardoliya 201124 Civil Engineering
 */
 
 #include<stdio.h>
